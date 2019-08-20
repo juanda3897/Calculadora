@@ -1,0 +1,27 @@
+
+<div class="card">
+
+    
+
+    <div >Por favor ingrese dos números y seleccione la operación que desea completar</div>
+    
+        <div >
+               
+                    <input [(ngModel)]='numero1' type="number" name="numero1" class="form">
+                    <input [(ngModel)]='numero2' type="number" name="numero2" class="form" pattern="^[a-zA-Z0-9]+$" >                     
+                    <div>= {{resultado}}
+                                              </div>
+               
+            <div >
+                    <button  (click)="addition()" >+</button>
+                    <button  (click)="rest()" >-</button>
+                    <button  (click)="mult()" >x</button>
+                    <button  (click)="div()" >/</button>
+                    
+                    
+            </div>
+            <button (click)="reset()">Reset</button>
+            
+        </div>
+           
+</div>
