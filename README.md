@@ -1,4 +1,4 @@
-#Calculadora JUAN ESCOBAR 
+# Calculadora JUAN ESCOBAR 
 
 La calculadora utilizala funciones básicas, las cuales se definene en los componentes. 
 Los botones que hacen uso de estos componentes se encuentran en el archivo html. 
