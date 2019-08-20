@@ -1,3 +1,18 @@
+#Calculadora JUAN ESCOBAR 
+
+La calculadora utilizala funciones básicas, las cuales se definene en los componentes. 
+Los botones que hacen uso de estos componentes se encuentran en el archivo html. 
+Donde después de ingresar los valores, unicamente numéricos y oprimir el botón correspondiente a la operación que se quiere realizar, se podrá ver el resultado de la operación. 
+No es necesario orpimir el boton de Reset para realizar otro calculo.
+
+
+
+
+
+
+
+
+
 # Calculadora
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
